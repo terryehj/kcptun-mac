@@ -1,0 +1,7 @@
+{
+    "localaddr": ":80",
+    "remoteaddr": "server_ip:443",
+    "key": "password",
+    "crypt": "salsa20",
+    "mode": "fast2"
+}
